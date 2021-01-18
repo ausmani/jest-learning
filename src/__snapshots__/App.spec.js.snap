@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking Counter Component Snapshot Renderers 1`] = `
+<div>
+  <p>
+    1
+  </p>
+</div>
+`;
